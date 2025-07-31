@@ -1,1 +1,3 @@
-{ "outputDirectory": "build/web" }
+{
+  "outputDirectory": "build/web"
+}
